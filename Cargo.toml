@@ -1,0 +1,10 @@
+[package]
+name = "ros2_rs"
+version = "0.1.0"
+authors = ["Esteve Fernandez <esteve@apache.org>"]
+edition = "2018"
+description = "ROS 2 stub crate"
+repository = "https://github.com/esteve/ros2_rs"
+license = "Apache-2.0"
+
+[dependencies]
